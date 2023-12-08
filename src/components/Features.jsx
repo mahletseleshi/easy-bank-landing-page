@@ -41,7 +41,7 @@ const Features = () => {
 
 
   return (
-    <div className="flex flex-col w-full items-start px-32 bg-gray-100">
+    <div className="flex flex-col w-full items-start px-32 py-14 bg-gray-100">
         <h1 className="text-4xl  my-5">Why choose Easybank?</h1>
         <p className="w-[50%] text-gray-500 my-6 mb-8">We leverage Open Banking to turn your bank account
             into your financial hub. Control your finances
